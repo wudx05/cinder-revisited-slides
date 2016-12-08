@@ -2,6 +2,7 @@
 # OpenStack Block Storage Revistied
 
 <div style="text-align:center">Mark Wu</div>
+https://github.com/wudx05/cinder-revisited-slides/blob/master/PITCHME.md
 
 #HSLIDE
 
