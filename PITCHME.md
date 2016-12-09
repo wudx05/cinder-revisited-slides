@@ -111,7 +111,7 @@
 
 #VSLIDE
 ### Snapshot for Instances backed by cinder volume
-![snap_volume](assets/images/nova-cinder-snapshot.png)
+![snap_volume](assets/images/nova-snap-volume.png)
 
 #VSLIDE?gist=6e37c1ba879da254247e2aa24caea952
 
